@@ -1,0 +1,31 @@
+.title{
+    display: flex;
+    align-items: center;  
+    margin: 10px;
+    
+}
+
+.problemBook{
+    margin: 10px;
+       
+}
+.input1{
+    display: flex;
+    align-items: center;
+    
+}
+.list2{
+    display: flex;
+    
+}
+
+#addTask{
+    color: brown;
+}
+
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
